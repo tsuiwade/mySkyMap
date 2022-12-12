@@ -38,7 +38,7 @@ qt项目由一个表格显示hip序号、方位角、高度角以及星等，另
 
 5等星
 
-![image-20221212201732161](C:\Users\hp\Desktop\rec.assets\image-20221212201732161.png)
+![image-20221212201732161](https://images-1312692717.cos.ap-nanjing.myqcloud.com/img/image-20221212201732161.png)
 
 画到五等星还算较快，后面就很慢了 可以尝试用qpen来画
 
