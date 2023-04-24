@@ -1,13 +1,15 @@
 ﻿#ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-
 #include <QMainWindow>
+#include <QTableWidgetItem>
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
 }
 QT_END_NAMESPACE
+
 
 class MainWindow : public QMainWindow {
     Q_OBJECT
@@ -18,6 +20,13 @@ class MainWindow : public QMainWindow {
 
   public slots:
     void updateProgress();
+
+  private slots:
+    void on_pushButton_clicked();
+
+
+    void on_tableWidget_2_cellDoubleClicked(int row, int column);
+
   private:
     Ui::MainWindow *ui;
 };

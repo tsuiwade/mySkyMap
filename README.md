@@ -49,3 +49,9 @@ qt项目由一个表格显示hip序号、方位角、高度角以及星等，另
 6.5等星
 
 ![image-20221212202045109](https://images-1312692717.cos.ap-nanjing.myqcloud.com/img/image-20221212202045109.png)
+
+![image-20230424195508679](https://images-1312692717.cos.ap-nanjing.myqcloud.com/img/image-20230424195508679.png)
+
+房山选星
+
+![image-20230424195853639](https://images-1312692717.cos.ap-nanjing.myqcloud.com/img/image-20230424195853639.png)
